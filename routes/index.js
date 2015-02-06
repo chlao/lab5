@@ -1,4 +1,4 @@
-// Get all of our friend -- linking the pages
+// Get all of our friends (links the pages)
 var data = require('../data.json');
 
 exports.view = function(req, res){
